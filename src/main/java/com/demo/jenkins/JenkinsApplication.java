@@ -11,6 +11,7 @@ public class JenkinsApplication {
 		//	임시주석코드 추가
 		String a = "";
 		a = "a";
+		a = "b";
 
 	}
 
