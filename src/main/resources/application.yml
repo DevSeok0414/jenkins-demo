@@ -5,3 +5,12 @@ server:
   servlet:
     session:
       timeout: 3600s
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+  devtools:
+    livereload:
+      enabled: true
