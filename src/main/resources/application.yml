@@ -1,7 +1,7 @@
 server:
   tomcat:
     max-http-form-post-size: 40MB
-  port: 8079
+  port: 8180
   servlet:
     session:
       timeout: 3600s
