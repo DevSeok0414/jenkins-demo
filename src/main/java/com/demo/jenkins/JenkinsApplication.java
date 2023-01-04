@@ -12,7 +12,7 @@ public class JenkinsApplication {
 		String a = "";
 		a = "a";
 		a = "b";
-
+		a = "c";
 	}
 
 }
